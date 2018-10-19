@@ -1,3 +1,6 @@
+This is a simple Book Recommender based on Pearson Correlation to find books on the best possible correlation.
+
+
 The Dataset can be found here:
 
       http://www2.informatik.uni-freiburg.de/~cziegler/BX/
