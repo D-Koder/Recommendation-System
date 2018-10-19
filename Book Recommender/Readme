@@ -1,0 +1,11 @@
+The Dataset can be found here:
+
+      http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+      
+      
+There are 3 Tables:
+  BX-Users
+  BX-Books
+  BX-Book-Ratings
+  
+The names suggests what's in them obviously, so no need to explain.
